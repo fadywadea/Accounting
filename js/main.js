@@ -29,7 +29,7 @@ function smoke() {
   const totalSmoke = document.getElementById('numberSmoke');
   const totalPiceSmoke = document.getElementById('totalSmoke');
   totalSmoke.value = total;
-  totalPiceSmoke.value = total * 6;
+  totalPiceSmoke.value = total * 7;
 };
 
 // عادي
@@ -78,7 +78,7 @@ function large() {
   const totalLarge = document.getElementById('numberLarge');
   const totalPiceLarge = document.getElementById('totalLarge');
   totalLarge.value = total;
-  totalPiceLarge.value = total * 8;
+  totalPiceLarge.value = total * 9;
 };
 
 // عصير
