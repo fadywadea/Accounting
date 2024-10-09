@@ -41,7 +41,7 @@ function medium() {
   const totalMedium = document.getElementById('numberMedium');
   const totalPiceMedium = document.getElementById('totalMedium');
   totalMedium.value = total;
-  totalPiceMedium.value = total * 6;
+  totalPiceMedium.value = total * 9;
 };
 
 // صاروخ
@@ -53,7 +53,7 @@ function small() {
   const totalSmall = document.getElementById('numberSmall');
   const totalPiceSmall = document.getElementById('totalSmall');
   totalSmall.value = total;
-  totalPiceSmall.value = total * 4;
+  totalPiceSmall.value = total * 5;
 };
 
 // كانز
@@ -65,7 +65,7 @@ function hdba() {
   const totalHdba = document.getElementById('numberHdba');
   const totalPiceHdba = document.getElementById('totalHdba');
   totalHdba.value = total;
-  totalPiceHdba.value = total * 11;
+  totalPiceHdba.value = total * 13;
 };
 
 
